@@ -10,7 +10,7 @@ end
 
 gem 'rails', '~> 5.2.1'
 gem 'pg'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 gem 'dotenv-rails'
 gem 'attr_encrypted', '~> 3.0.0'
 gem 'delayed_job_active_record'
